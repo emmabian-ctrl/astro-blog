@@ -2,7 +2,7 @@
 title: 'emmma poste'
 description: 'on verra'
 pubDate: '2025/09/05'
-heroImage: '../../assets/blog-placeholder-5.jpg'
+heroImage: 'src/assets/4F0E3EE4-49AA-4305-8DE4-89C7512A8343.jpeg'
 ---
 
 c'est incroyable que j'établise mon blog tellement brut savant que je sais pas du tout coder. Ce que je cherche c'est juste d'écrire, écrire, écrire en français, en toutes les langues que je sais parler et comprendre ou compredrai. c'Est tout. Déjà c'est un pas légendaire pour moi et on verra ce que ça va donner dans mon premier article. Franchement j'aime pas la police qui s'affiche dans l'exemple. Je vais voir si je pourrais la changer. 
